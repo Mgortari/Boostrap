@@ -324,3 +324,81 @@ footer {
     text-transform: uppercase;
 }
 
+article{
+    padding: 20px;
+    text-align: center;
+    font-family: 'ubuntu';
+    text-transform: uppercase;
+    font-size: 27px;
+    width: auto;
+    color: white;
+    text-shadow: 3px 3px 7px rgb(240, 235, 235);
+}
+
+.planifica{
+    background-color: goldenrod;
+    padding: 50px;
+    margin: 7px;
+    height: 190px;
+    width: 310px;
+    position: relative;
+    border-radius: 100px;
+    text-align: center;
+    box-shadow: 5px 5px 5px black;
+}
+.planifica:hover{
+    cursor: pointer;
+    transform: rotateY(380grad);
+    transition: 2s;
+}
+
+.agencia{
+    background-color: goldenrod;
+    padding: 40px;
+    margin: 7px;
+    height: 190px;
+    width: 310px;
+    position: relative;
+    border-radius: 100px;
+    text-align: center;
+    box-shadow: 5px 5px 5px black;
+}
+.agencia:hover{
+    cursor: pointer;
+    transform: rotateY(380grad);
+    transition: 2s;
+}
+
+.actividades{
+    background-color: goldenrod;
+    padding: 50px;
+    margin: 7px;
+    height: 190px;
+    width: 310px;
+    position: relative;
+    border-radius: 100px;
+    text-align: center;
+    box-shadow: 5px 5px 5px black;
+}
+.actividades:hover{
+    cursor: pointer;
+    transform: rotateY(380grad);
+    transition: 2s;
+}
+
+.circuitos{
+    background-color: goldenrod;
+    padding: 50px;
+    margin: 7px;
+    height: 190px;
+    width: 310px;
+    position: relative;
+    border-radius: 100px;
+    text-align: center;
+    box-shadow: 5px 5px 5px black;
+}
+.circuitos:hover{
+    cursor: pointer;
+    transform: rotateY(380grad);
+    transition: 2s;
+}
